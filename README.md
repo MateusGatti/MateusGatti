@@ -1,4 +1,4 @@
-## What'up 🤙
+## What's up 🤙
 ### Mateus, 18yo
 #### Contact me:
 ● Discord: gatti#7179
