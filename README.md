@@ -1,4 +1,7 @@
-### Hi there 👋
+### What'up 🤙
+## Mateus, 18yo
+Contact me:
+● Discord: gatti#7179
 
 <!--
 **MateusGatti/MateusGatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
