@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/MateusGatti/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MateusGatti&theme=shades-of-purple&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MateusGatti&theme=great-gatsby&show_icons=true" />
 </a>
 <a href="https://github.com/MateusGatti/convoychat">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGatti&theme=shades-of-purple" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGatti&theme=great-gatsby" />
 </a>
