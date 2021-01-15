@@ -1,6 +1,7 @@
 ## What's up 🤙
 ### Mateus, 18yo
 #### Contact me:
+● Linkedin: linkedin.com/in/mateusgatti
 ● Discord: gatti#7179
 
 <!--
