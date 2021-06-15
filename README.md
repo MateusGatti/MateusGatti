@@ -1,7 +1,11 @@
 ## What's up 🤙
-### Mateus, 19yo
-#### Contact me:
-● Linkedin: linkedin.com/in/mateusgatti
+My name is Mateus Gatti
+Im 19 yo
+From Brazil, São paulo
+
+
+Contact me! 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mateusgatti/)](https://www.linkedin.com/in/mateusgatti/)
 
 ● Discord: gatti#7179
 
@@ -20,8 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/MateusGatti/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MateusGatti&theme=great-gatsby&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MateusGatti&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/MateusGatti/convoychat">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGatti&theme=great-gatsby" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGatti&theme=tokyonight" />
 </a>
