@@ -1,7 +1,7 @@
 ## What's up 🤙
 ### My name is Mateus Gatti
 ### Im 19 yo
-### From Brazil, São paulo
+### From São Paulo, Brazil
 
 
 ### Contact me! 
