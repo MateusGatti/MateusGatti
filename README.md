@@ -1,13 +1,5 @@
-## What's up 🤙
-### My name is Mateus Gatti
-### Im 19 yo
-### From São Paulo, Brazil
-
-
-### Contact me! 
-### [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mateusgatti/)](https://www.linkedin.com/in/mateusgatti/)
-
-● Discord: gatti#7179
+### Backend DOTNET developer
+### Studying hacking and security at the moment
 
 <!--
 **MateusGatti/MateusGatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
