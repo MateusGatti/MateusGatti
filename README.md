@@ -1,5 +1,5 @@
 ### Backend DOTNET developer
-### Studying hacking and security at the moment
+### Studying hacking and cybersecurity at the moment
 
 <!--
 **MateusGatti/MateusGatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
